@@ -1,4 +1,4 @@
-# decentralization-research
+# John's Decentralization Research
 Open research on distributed systems and blockchain
 
 Feel free to contribute literature, questions, and research suggestions [here](https://github.com/jalora/decentralization-research/issues/new) (please label appropriately).
