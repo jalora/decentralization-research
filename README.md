@@ -6,4 +6,6 @@ Feel free to contribute literature, questions, and research suggestions [here](h
 ### [Courses](https://github.com/jalora/decentralization-research/issues/5) I'm taking
 
 
-### Monthly [Reading List](https://github.com/jalora/decentralization-research/issues/6)
+## Monthly Reading List
+
+### [September 2018 Reading](https://github.com/jalora/decentralization-research/issues/6)
